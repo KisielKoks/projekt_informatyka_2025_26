@@ -1,5 +1,7 @@
 Imię: Maciej
+
 Nazwisko: Kisielewski
+
 Tytuł projektu: Arkanoid
 
 Projekt Arkanoid był wykonywany systematycznie na cotygodniowych zajęciach. Jest to projekt z użyciem biblioteki SFML w programie C++.
@@ -30,3 +32,4 @@ Zasady działania gry:
     Czerwony - 1 życie
     Żółty - 2 życia
     Niebieski - 3 życia
+
